@@ -1,0 +1,16 @@
+{
+    "name": "atividadea3",
+    "version": "1.0.0",
+    "description": "API REST de produtos e clientes com Node.js e MySQL",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mysql2": "^2.3.3"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
